@@ -1,4 +1,4 @@
-# Test task
+# Test task (6 hours)
 
 Design and implement a RESTful API, backing service and data model to create bank accounts
 and transfer money between them. Interaction with API will be using HTTP requests.
